@@ -1,0 +1,2 @@
+---
+ntp::remote_ntp_server: '0.rhel.pool.ntp.org'
